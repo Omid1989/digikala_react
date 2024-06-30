@@ -4,3 +4,5 @@ Just install package and run it :
 
 - `npm i `
 - `npm run dev`
+
+set api url in env file
