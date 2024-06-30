@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "IRANSansWeb";
+  font-style: normal;
+  font-weight: normal;
+  src: url("assets/fonts/woff2/IRANSansWeb.woff2") format("woff2");
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  direction: rtl;
+  font-family: IRANSansWeb "Times New Roman", Times, serif;
+}
+
+html {
+  font-size: 10px;
+}
+
+@keyframes animation {
+  0% {
+    background-position: -100px;
+  }
+  40%,
+  100% {
+    background-position: 270px;
+  }
+}
