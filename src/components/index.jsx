@@ -9,3 +9,4 @@ export { default as Categories } from "./CategoriesSearch";
 export { default as LastSearch } from "./LastSearch";
 export { default as TrendsSearch } from "./TrendsSearch";
 export { default as Live } from "./Live";
+export { default as ModalLive } from "./ModalLive";
