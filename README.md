@@ -10,6 +10,11 @@ set api url from digikala site in env file
 - VITE_API_GET_DATA_V2 =
 - VITE_API_GET_DATA_MAGNET =
 - VITE_API_GET_DATA_AUTOCOMPLETE =
+
 ### 🙅
-https://github.com/Omid1989/digikala_react/blob/main/1726473567029.mp4
+
+https://github.com/user-attachments/assets/b967ad85-5f8e-422f-a131-742ccee2dd85
+
+
+
 
